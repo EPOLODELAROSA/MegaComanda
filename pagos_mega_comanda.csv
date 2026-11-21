@@ -1,0 +1,4 @@
+fecha,id_pago,mesa,destino,monto,metodo,responsable,resultado
+2026-11-21T00:55:38.520764806,PAGO_1,1,COMANDA_1,5000,Efectivo,Cajero,REGISTRADO
+2026-11-21T00:55:38.527252726,PAGO_2,1,MESA,20000,Transferencia,Mesero,REGISTRADO
+2026-11-21T00:55:38.537428336,PAGO_3,1,COMANDA_2,7000,Efectivo,Cajero,REGISTRADO
